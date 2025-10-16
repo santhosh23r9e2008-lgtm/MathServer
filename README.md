@@ -135,9 +135,11 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-https://1drv.ms/i/c/ca8a5edc1505b622/EcxpHQxJdFZOgGioXGCYslYBR5WrKWyPzXTquvy8dfsjeA?e=kcXM81
+![WhatsApp Image 2025-10-16 at 13 46 19_16df694b](https://github.com/user-attachments/assets/dea9ca9a-7658-459b-a17e-b27ff29b1e70)
+
 
 ## HOMEPAGE:
+![WhatsApp Image 2025-10-16 at 13 46 06_86192935](https://github.com/user-attachments/assets/86f3cf46-80a0-4483-87fb-5bbf2ba7d7e8)
 
 
 ## RESULT:
